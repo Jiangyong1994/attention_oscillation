@@ -1,1 +1,5 @@
-
+exp1=2-location condition
+exp2=1-location condition
+exp3=3-location condition
+exp4(_1 _2 _3)=4-location condition
+exp5=2-linked-location condition
